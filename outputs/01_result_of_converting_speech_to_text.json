@@ -1,0 +1,1652 @@
+[
+    {
+        "Id": "26fbba3064474057ac83f0101cfa2de2",
+        "RecognitionStatus": 0,
+        "Offset": 700000,
+        "Duration": 83200000,
+        "Channel": 0,
+        "DisplayText": "Matthew Chapter 11 verses 28 to 30 Come to me all you who labor and are heavy laden and I will give you rest.",
+        "NBest": [
+            {
+                "Confidence": 0.8962745,
+                "Lexical": "matthew chapter eleven verses twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "ITN": "matthew chapter 11 verses 28 to 30 come to me all you who labor and are heavy laden and i will give you rest",
+                "MaskedITN": "matthew chapter 11 verses 28 to 30 come to me all you who labor and are heavy laden and i will give you rest",
+                "Display": "Matthew Chapter 11 verses 28 to 30 Come to me all you who labor and are heavy laden and I will give you rest.",
+                "Words": [
+                    {
+                        "Word": "matthew",
+                        "Offset": 700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "chapter",
+                        "Offset": 4700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "eleven",
+                        "Offset": 10300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "verses",
+                        "Offset": 15100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 20700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 23900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 25900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 27500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 39900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 45500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 49900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "labor",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 56700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "heavy",
+                        "Offset": 59900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "laden",
+                        "Offset": 63500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 69100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 71900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 72300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 74300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 76700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 77900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9066894,
+                "Lexical": "chapter eleven verses twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "ITN": "chapter eleven verses twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "MaskedITN": "chapter eleven verses twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "Display": "chapter eleven verses twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "Words": [
+                    {
+                        "Word": "chapter",
+                        "Offset": 2700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "eleven",
+                        "Offset": 10300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "verses",
+                        "Offset": 15100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 20700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 23900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 25900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 27500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 39900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 45500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 49900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "labor",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 56700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "heavy",
+                        "Offset": 59900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "laden",
+                        "Offset": 63500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 69100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 71900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 72300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 74300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 76700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 77900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86233103,
+                "Lexical": "matthew chapter eleven verses twenty eight to thirty come to me all you who labour and are heavy laden and i will give you rest",
+                "ITN": "matthew chapter eleven verses twenty eight to thirty come to me all you who labour and are heavy laden and i will give you rest",
+                "MaskedITN": "matthew chapter eleven verses twenty eight to thirty come to me all you who labour and are heavy laden and i will give you rest",
+                "Display": "matthew chapter eleven verses twenty eight to thirty come to me all you who labour and are heavy laden and i will give you rest",
+                "Words": [
+                    {
+                        "Word": "matthew",
+                        "Offset": 700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "chapter",
+                        "Offset": 4700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "eleven",
+                        "Offset": 10300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "verses",
+                        "Offset": 15100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 20700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 23900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 25900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 27500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 39900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 45500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 49900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "labour",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 56700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "heavy",
+                        "Offset": 59900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "laden",
+                        "Offset": 63500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 69100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 71900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 72300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 74300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 76700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 77900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8573657,
+                "Lexical": "matthew chapter eleven versus twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "ITN": "matthew chapter eleven versus twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "MaskedITN": "matthew chapter eleven versus twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "Display": "matthew chapter eleven versus twenty eight to thirty come to me all you who labor and are heavy laden and i will give you rest",
+                "Words": [
+                    {
+                        "Word": "matthew",
+                        "Offset": 700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "chapter",
+                        "Offset": 4700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "eleven",
+                        "Offset": 10300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "versus",
+                        "Offset": 15100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 20700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 23900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 25900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 27500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 39900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 45500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 49900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "labor",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 56700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "heavy",
+                        "Offset": 59900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "laden",
+                        "Offset": 63500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 69100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 71900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 72300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 74300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 76700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 77900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8698909,
+                "Lexical": "matthew chapter eleven verses twenty eight to thirty come to me all ye who labor and are heavy laden and i will give you rest",
+                "ITN": "matthew chapter eleven verses twenty eight to thirty come to me all ye who labor and are heavy laden and i will give you rest",
+                "MaskedITN": "matthew chapter eleven verses twenty eight to thirty come to me all ye who labor and are heavy laden and i will give you rest",
+                "Display": "matthew chapter eleven verses twenty eight to thirty come to me all ye who labor and are heavy laden and i will give you rest",
+                "Words": [
+                    {
+                        "Word": "matthew",
+                        "Offset": 700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "chapter",
+                        "Offset": 4700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "eleven",
+                        "Offset": 10300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "verses",
+                        "Offset": 15100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "twenty",
+                        "Offset": 20700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eight",
+                        "Offset": 23900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 25900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "thirty",
+                        "Offset": 27500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 39900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 41100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 45500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ye",
+                        "Offset": 48300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 49500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "labor",
+                        "Offset": 51900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 56700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "heavy",
+                        "Offset": 59900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "laden",
+                        "Offset": 63500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 69100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 71900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 72300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "give",
+                        "Offset": 74300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 76700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 77900000,
+                        "Duration": 6000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "476e326bb5374660a7ed4c2be4610108",
+        "RecognitionStatus": 0,
+        "Offset": 92300000,
+        "Duration": 46400000,
+        "Channel": 0,
+        "DisplayText": "Take my yoke upon you and learn from me, for I am gentle and lowly in heart.",
+        "NBest": [
+            {
+                "Confidence": 0.93657684,
+                "Lexical": "take my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "ITN": "take my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "MaskedITN": "take my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "Display": "Take my yoke upon you and learn from me, for I am gentle and lowly in heart.",
+                "Words": [
+                    {
+                        "Word": "take",
+                        "Offset": 92300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 94700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 96700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "upon",
+                        "Offset": 100300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 103900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 105900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 110300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 112700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 116700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 119100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "am",
+                        "Offset": 119500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gentle",
+                        "Offset": 122300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 127100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "lowly",
+                        "Offset": 128300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 132700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "heart",
+                        "Offset": 133900000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.96394485,
+                "Lexical": "my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "ITN": "my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "MaskedITN": "my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "Display": "my yoke upon you and learn from me for i am gentle and lowly in heart",
+                "Words": [
+                    {
+                        "Word": "my",
+                        "Offset": 94300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 96700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "upon",
+                        "Offset": 100300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 103900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 105900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 110300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 112700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 116700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 119100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "am",
+                        "Offset": 119500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gentle",
+                        "Offset": 122300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 127100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "lowly",
+                        "Offset": 128300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 132700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "heart",
+                        "Offset": 133900000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88109756,
+                "Lexical": "take my yoke upon you and learn from me for i am gentle and lovely in heart",
+                "ITN": "take my yoke upon you and learn from me for i am gentle and lovely in heart",
+                "MaskedITN": "take my yoke upon you and learn from me for i am gentle and lovely in heart",
+                "Display": "take my yoke upon you and learn from me for i am gentle and lovely in heart",
+                "Words": [
+                    {
+                        "Word": "take",
+                        "Offset": 92300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 94700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 96700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "upon",
+                        "Offset": 100300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 103900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 105900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 110300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 112700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 116700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 119100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "am",
+                        "Offset": 119500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gentle",
+                        "Offset": 122300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 127100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "lovely",
+                        "Offset": 128300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 132700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "heart",
+                        "Offset": 133900000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.87450176,
+                "Lexical": "take my yoke upon you and learn from me for i am gentle and lowly and heart",
+                "ITN": "take my yoke upon you and learn from me for i am gentle and lowly and heart",
+                "MaskedITN": "take my yoke upon you and learn from me for i am gentle and lowly and heart",
+                "Display": "take my yoke upon you and learn from me for i am gentle and lowly and heart",
+                "Words": [
+                    {
+                        "Word": "take",
+                        "Offset": 92300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 94700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 96700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "upon",
+                        "Offset": 100300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 103900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 105900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 110300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 112700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 116700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 119100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "am",
+                        "Offset": 119500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gentle",
+                        "Offset": 122300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 127100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "lowly",
+                        "Offset": 128300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 132700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "heart",
+                        "Offset": 133900000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9047537,
+                "Lexical": "take my yolk upon you and learn from me for i am gentle and lowly in heart",
+                "ITN": "take my yolk upon you and learn from me for i am gentle and lowly in heart",
+                "MaskedITN": "take my yolk upon you and learn from me for i am gentle and lowly in heart",
+                "Display": "take my yolk upon you and learn from me for i am gentle and lowly in heart",
+                "Words": [
+                    {
+                        "Word": "take",
+                        "Offset": 92300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 94700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "yolk",
+                        "Offset": 96700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "upon",
+                        "Offset": 99900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 103900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 105900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 110300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 112700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 116700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 119100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "am",
+                        "Offset": 119500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gentle",
+                        "Offset": 122300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 127100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "lowly",
+                        "Offset": 128300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 132700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "heart",
+                        "Offset": 133900000,
+                        "Duration": 4800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "0fd06c27f30d4660a67c905bb80d0182",
+        "RecognitionStatus": 0,
+        "Offset": 147100000,
+        "Duration": 56400000,
+        "Channel": 0,
+        "DisplayText": "And you will find rest for your souls. For my yoke is easy and my burden is light.",
+        "NBest": [
+            {
+                "Confidence": 0.9542458,
+                "Lexical": "and you will find rest for your souls for my yoke is easy and my burden is light",
+                "ITN": "and you will find rest for your souls for my yoke is easy and my burden is light",
+                "MaskedITN": "and you will find rest for your souls for my yoke is easy and my burden is light",
+                "Display": "And you will find rest for your souls. For my yoke is easy and my burden is light.",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 147100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 149500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 151500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 153500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 157100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 162300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "souls",
+                        "Offset": 163900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 175500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 177500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 179100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 183500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "easy",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 189500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 191100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "burden",
+                        "Offset": 192700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 197100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "light",
+                        "Offset": 198700000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9184423,
+                "Lexical": "and you'll find rest for your souls for my yoke is easy and my burden is light",
+                "ITN": "and you'll find rest for your souls for my yoke is easy and my burden is light",
+                "MaskedITN": "and you'll find rest for your souls for my yoke is easy and my burden is light",
+                "Display": "and you'll find rest for your souls for my yoke is easy and my burden is light",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 147100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you'll",
+                        "Offset": 149500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 153500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 157100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 162300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "souls",
+                        "Offset": 163900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 175500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 177500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 179100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 183500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "easy",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 189500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 191100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "burden",
+                        "Offset": 192700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 197100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "light",
+                        "Offset": 198700000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.89875615,
+                "Lexical": "and you will find rest for your soul for my yoke is easy and my burden is light",
+                "ITN": "and you will find rest for your soul for my yoke is easy and my burden is light",
+                "MaskedITN": "and you will find rest for your soul for my yoke is easy and my burden is light",
+                "Display": "and you will find rest for your soul for my yoke is easy and my burden is light",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 147100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 149500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 151500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 153500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 157100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 162300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "soul",
+                        "Offset": 163900000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 175500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 177500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 179100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 183500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "easy",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 189500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 191100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "burden",
+                        "Offset": 192700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 197100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "light",
+                        "Offset": 198700000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90210986,
+                "Lexical": "and you will find rest for your souls for my yoke as easy and my burden is light",
+                "ITN": "and you will find rest for your souls for my yoke as easy and my burden is light",
+                "MaskedITN": "and you will find rest for your souls for my yoke as easy and my burden is light",
+                "Display": "and you will find rest for your souls for my yoke as easy and my burden is light",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 147100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 149500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 151500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 153500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 157100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 162300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "souls",
+                        "Offset": 163900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 175500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 177500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yoke",
+                        "Offset": 179100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 183500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "easy",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 189500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 191100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "burden",
+                        "Offset": 192700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 197100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "light",
+                        "Offset": 198700000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9060344,
+                "Lexical": "and you will find rest for your souls for my yolk is easy and my burden is light",
+                "ITN": "and you will find rest for your souls for my yolk is easy and my burden is light",
+                "MaskedITN": "and you will find rest for your souls for my yolk is easy and my burden is light",
+                "Display": "and you will find rest for your souls for my yolk is easy and my burden is light",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 147100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 149500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 151500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 153500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rest",
+                        "Offset": 157100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 161100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 162300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "souls",
+                        "Offset": 163900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 175500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 177500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "yolk",
+                        "Offset": 179100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 183100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "easy",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 189500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 191100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "burden",
+                        "Offset": 192700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 197100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "light",
+                        "Offset": 198700000,
+                        "Duration": 4800000
+                    }
+                ]
+            }
+        ]
+    }
+]
